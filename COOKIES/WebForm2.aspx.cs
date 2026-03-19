@@ -41,7 +41,7 @@ namespace COOKIES
 
         protected void btnSave_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("WebForm1.aspx");
         }
     }
     }

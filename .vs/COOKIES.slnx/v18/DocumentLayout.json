@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\cookies\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|solutionrelative:cookies\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 3\\aspx\\cookies\\cookies\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\cookies\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|solutionrelative:cookies\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\cookies\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|solutionrelative:cookies\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|c:\\users\\rodri\\desktop\\3\u00B0 ds a\\prof.arcides\\modulo i\\practica 3\\aspx\\cookies\\cookies\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|solutionrelative:cookies\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA6B65D3-2D5D-4CAC-843A-7610148B39CE}|COOKIES\\COOKIES.csproj|C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\cookies\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WebForm2.aspx.cs",
               "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\COOKIES\\WebForm2.aspx.cs",
               "RelativeDocumentMoniker": "COOKIES\\WebForm2.aspx.cs",
               "ToolTip": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\COOKIES\\WebForm2.aspx.cs",
               "RelativeToolTip": "COOKIES\\WebForm2.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T20:52:28.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WebForm2.aspx",
               "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\COOKIES\\WebForm2.aspx",
               "RelativeDocumentMoniker": "COOKIES\\WebForm2.aspx",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\3\u00B0 DS A\\Prof.Arcides\\MODULO I\\PRACTICA 3\\ASPX\\COOKIES\\COOKIES\\WebForm1.aspx",
               "RelativeDocumentMoniker": "COOKIES\\WebForm1.aspx",
